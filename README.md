@@ -73,12 +73,5 @@ Model performance metrics (accuracy, precision, recall, F1-score) are saved in t
 
 Feature importance plots for both models are generated and saved in the plots/ directory.
 
-License
-This project is licensed under the MIT License. See LICENSE for details.
 
-Contact
-For questions or feedback, email: your.email@example.com
 
-This README provides a clear and concise guide to understanding and running the project. Let me know if you need further assistance!
-
-New chat
